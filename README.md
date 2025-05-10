@@ -6,7 +6,7 @@ A modern, responsive single-page marketing website built for a fictional softwar
 
 ## 🚀 Live Demo
 
-🌐 [Live Website](https://your-deployed-url.vercel.app)
+🌐 [Live Website](https://soft-sell-jade.vercel.app/)
 
 ---
 
@@ -96,6 +96,4 @@ Created by **Monu Nigaam**
 🌐 [LinkedIn](https://www.linkedin.com/in/adityaadhana-2b0aa4357/) 
 ---
 
-## 📄 License
 
-This project is for internship evaluation purposes only and not licensed for commercial use.
